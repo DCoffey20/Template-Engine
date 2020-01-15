@@ -12,6 +12,6 @@ User is prompted to fill out the team manager's information. After the manager's
 
 # Screenshots
 
-![Template-Engine](./images/Screenshot.PNG "Team Page")
+![Template-Engine](./assets/Screenshot.PNG "Team Page")
 
-![Template-Engine](./images/Screenshot1.PNG "Team Page Continued")
+![Template-Engine](./assets/Screenshot1.PNG "Team Page Continued")
